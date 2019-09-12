@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    height: 100%;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.item{
+    margin: 10px;
+}
+
+.header-container{
+    height: 100px;
+    background-color: #DB4E41;
+}
+
+.box-item{
+    background-color:#F8F8F8;
+    border: 1px solid darkgrey;
+    width: 75%;
+}
+
+.small{
+    width:25%;
+}
+
+.footer-container{
+    margin-top: 20px;
+    height: 200px;
+    background-color: #3C3C3C;
+}
