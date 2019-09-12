@@ -79,4 +79,11 @@
     flex: .16;
 }
 
-.
+.yellow{
+    background-color: yellow;
+    flex: .33;
+}
+
+.end{
+    margin-left:310px;
+}
