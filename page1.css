@@ -23,6 +23,10 @@
     justify-content: flex-end;
 }
 
+.flex-6{
+    justify-content: flex-start;
+}
+
 .flex-item {
     height: 200px;
     margin: 10px;
@@ -81,9 +85,9 @@
 
 .yellow{
     background-color: yellow;
-    flex: .33;
+    flex: .25;
 }
 
 .end{
-    margin-left:310px;
+    
 }
